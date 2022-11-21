@@ -1,16 +1,14 @@
-# konversi_suhu_list
+# TUGAS STATEFULL WIDGET AND MAP
 
-A new Flutter project.
+NAMA : MILA YUNITA <br>
+KELAS/ABSEN : TI-3C/13 <br>
+MATA KULIAH : PEMOGRAMAN MOBILE
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## HASIL OUTPUT
+1. Konversi dari Celcius ke Kelvin
+<img src="images/celciusToKelvin.png" alt="" width="300"> <br> <br>
+2. Konversi dari Celcius ke Reamur
+<img src="images/celciusToReamur.png" alt="" width="300"> <br> <br>
+3. Konversi dari Celcius ke Fahrenheit
+<img src="images/celciusToFahrenheit.png" alt="" width="300"> <br> <br>
